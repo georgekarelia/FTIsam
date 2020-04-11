@@ -1,8 +1,6 @@
 #include <iostream>
-#include "plus.h"
-#include "minus.h"
-#include "umn.h"
-#include "del.h"
+#include "minus&plus.h"
+#include "umn&del.h"
 
 int main()
 {
